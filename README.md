@@ -12,12 +12,12 @@ Automates spreadsheet processing and generates consolidated business reports.
 ### 2. Sales Dashboard with Streamlit
 Interactive dashboard for sales analysis, KPIs and data visualization.
 
-Repository: `sales-dashboard-streamlit`
+[View repository](https://github.com/tfortal/sales-dashboard-streamlit)
 
 ### 3. Service Order Management App
 Simple internal tool for managing service orders, customers, status and operational KPIs.
 
-Repository: `service-order-management-app`
+[View repository](https://github.com/tfortal/service-order-management-app)
 
 ## Main Technologies
 
