@@ -7,7 +7,7 @@ This repository presents a collection of demonstrative projects focused on busin
 ### 1. Excel/CSV Report Automation
 Automates spreadsheet processing and generates consolidated business reports.
 
-Repository: `excel-report-automation`
+[View repository](https://github.com/tfortal/excel-report-automation)
 
 ### 2. Sales Dashboard with Streamlit
 Interactive dashboard for sales analysis, KPIs and data visualization.
